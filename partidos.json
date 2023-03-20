@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "ObjectId",
+        "fecha": "Date",
+        "hora": "String",
+        "sede": {
+            "_id": "ObjectId",
+            "nombre": "String",
+            "ciudad": "String",
+            "pais": "String",
+            "capacidad": "Number"
+        },
+        "equipoLocal": {
+            "_id": "ObjectId",
+            "nombre": "String",
+            "pais": "String"
+        },
+        "equipoVisitante": {
+            "_id": "ObjectId",
+            "nombre": "String",
+            "pais": "String"
+        },
+        "arbitro": {
+            "_id": "ObjectId",
+            "nombre": "String",
+            "apellido": "String"
+        }
+    }
+]

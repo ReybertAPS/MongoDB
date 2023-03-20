@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "ObjectId",
+        "equipo": {
+            "_id": "ObjectId",
+            "nombre": "String",
+            "pais": "String"
+        },
+        "puntos": "Number",
+        "partidosJugados": "Number",
+        "partidosGanados": "Number",
+        "partidosEmpatados": "Number",
+        "partidosPerdidos": "Number",
+        "golesFavor": "Number",
+        "golesContra": "Number",
+        "diferenciaGoles": "Number"
+    }
+]

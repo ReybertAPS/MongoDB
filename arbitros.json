@@ -1,0 +1,9 @@
+[
+    {
+        "_id": "ObjectId",
+        "nombre": "String",
+        "apellido": "String",
+        "edad": "Number",
+        "nacionalidad": "String"
+    }
+]

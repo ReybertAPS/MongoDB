@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "ObjectId",
+        "nombre": "String",
+        "pais": "String",
+        "entrenador": {
+            "_id": "ObjectId",
+            "nombre": "String",
+            "apellido": "String",
+            "edad": "Number"
+        },
+        "jugadores": [
+            {
+                "_id": "ObjectId",
+                "nombre": "String",
+                "apellido": "String",
+                "edad": "Number",
+                "posicion": "String"
+            }
+        ]
+    }
+]

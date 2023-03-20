@@ -1,0 +1,9 @@
+[
+    {
+        "_id": "ObjectId",
+        "nombre": "String",
+        "ciudad": "String",
+        "pais": "String",
+        "capacidad": "Number"
+    }
+]

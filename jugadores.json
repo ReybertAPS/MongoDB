@@ -1,0 +1,14 @@
+[
+    { 
+        "_id": "ObjectId",
+        "nombre": "String",
+        "apellido": "String",
+        "edad": "Number",
+        "posicion": "String",
+        "equipo": {
+            "_id": "ObjectId",
+            "nombre": "String",
+            "pais": "String"
+        }
+    }
+]

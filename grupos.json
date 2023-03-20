@@ -1,0 +1,13 @@
+[
+    {
+        "_id": "ObjectId",
+        "nombre": "String",
+        "equipos": [
+            {
+                "_id": "ObjectId",
+                "nombre": "String",
+                "pais": "String"
+            }
+        ]
+    }
+]
